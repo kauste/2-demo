@@ -1,0 +1,16 @@
+{
+  "name": "2-demo",
+  "version": "1.0.0",
+  "description": "demo projekto aprasymas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3333 --host=localhost --browser=Firefox",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rugile",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
